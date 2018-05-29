@@ -1,12 +1,12 @@
 
-#/classes/
-#/test-classes/
-#/.target
-#.classpath
-#.project
-#.setting/
-#.idea/
-#*.iml
+/classes/
+/test-classes/
+/.target
+.classpath
+.project
+.setting/
+.idea/
+*.iml
 
 # Compiled class file
 *.class
